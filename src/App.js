@@ -2,7 +2,7 @@ import Assesments from "./Assesments";
 import Attendance from "./Attendance";
 import Classes from "./Classes";
 import Placements from "./Placements";
-import Assesments from "./Assesments";
+
 
 function App() {
   return (
